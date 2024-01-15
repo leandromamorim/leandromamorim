@@ -16,6 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 My Stats:
 
-<p>
-    <img height=175 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromamorim&layout=compact" />;
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandromamorim&hide_border=true&theme=github_light&show_icons=true&layout=compact&langs_count=10&card_width=320")
