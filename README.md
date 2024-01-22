@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💻 My Tech Stack:
-[![java, idea, vscode, spring, selenium, postman, mysql](https://skillicons.dev/icons?i=java,idea,vscode,spring,selenium,postman,mysql&theme=light)](https://skillicons.dev)
+[![java, idea, vscode, selenium, postman,](https://skillicons.dev/icons?i=java,idea,vscode,selenium,postman&theme=light)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
